@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.176.2](https://github.com/lizy168/auth/compare/v2.176.1...v2.176.2) (2026-10-29)
+
+
+### Bug Fixes
+
+* add missing provider info to signedup audit logs ([#2061](https://github.com/lizy168/auth/issues/2061)) ([c6e0cbe](https://github.com/lizy168/auth/commit/c6e0cbefe5b609ac3362c23d0f7cb9d9bb04abc9))
+* do not log fatal when http server successfully closes ([#2065](https://github.com/lizy168/auth/issues/2065)) ([1f7de6c](https://github.com/lizy168/auth/commit/1f7de6c65f31ef0bbb80899369989b13ab5a517f))
+* invites should send another email when user exists ([#2058](https://github.com/lizy168/auth/issues/2058)) ([96469bd](https://github.com/lizy168/auth/commit/96469bd01b9c37f938aabdb0434a054a111cf963))
+
 ## [2.176.1](https://github.com/supabase/auth/compare/v2.176.0...v2.176.1) (2025-06-11)
 
 
