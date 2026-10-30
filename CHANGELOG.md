@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.172.2](https://github.com/lizy168/auth/compare/v2.172.1...v2.172.2) (2026-10-30)
+
+
+### Bug Fixes
+
+* add `supafast` tarball for upgrading auth via supabase-admin-api ([#2009](https://github.com/lizy168/auth/issues/2009)) ([9b55785](https://github.com/lizy168/auth/commit/9b557855a3ab80ee93ab95159055a444bff53f01))
+
 ## [2.172.1](https://github.com/supabase/auth/compare/v2.172.0...v2.172.1) (2025-05-05)
 
 
